@@ -1,2 +1,18 @@
-theme: jekyll-theme-cayman
-color-scheme: dark
+title: Raciocínio Algoritmico
+description: Documentação oficial
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+
+url: "https://sergiocalazans.github.io"
+baseurl: "/Raciocinio-Algoritmico"
+
+color_scheme: dark
+
+aux_links:
+  GitHub:
+    - https://github.com/sergiocalazans/Raciocinio-Algoritmico
